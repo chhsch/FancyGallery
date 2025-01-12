@@ -5,9 +5,9 @@ The **FancyGallery App** is a dynamic Android application that fetches and displ
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github.com/chhsch/FancyGallery/blob/18f00dcb053886d49f2e41e33831fda70a3f9c12/img/Screenshot_20250112_133411.png" alt="Gallery View" width="300"/>
-  <img src="https://github.com/chhsch/FancyGallery/blob/18f00dcb053886d49f2e41e33831fda70a3f9c12/img/Screenshot_20250112_133507.png" alt="Map View" width="300"/>
-  <img src="https://github.com/chhsch/FancyGallery/blob/18f00dcb053886d49f2e41e33831fda70a3f9c12/img/Screenshot_20250112_133520.png" alt="Map View" width="300"/>
+  <img src="https://github.com/chhsch/FancyGallery/blob/18f00dcb053886d49f2e41e33831fda70a3f9c12/img/Screenshot_20250112_133411.png" alt="Gallery View" width="200"/>
+  <img src="https://github.com/chhsch/FancyGallery/blob/18f00dcb053886d49f2e41e33831fda70a3f9c12/img/Screenshot_20250112_133507.png" alt="Map View" width="200"/>
+  <img src="https://github.com/chhsch/FancyGallery/blob/18f00dcb053886d49f2e41e33831fda70a3f9c12/img/Screenshot_20250112_133520.png" alt="Map View" width="200"/>
 </div>
 
 ## 📱 Features at a Glance
