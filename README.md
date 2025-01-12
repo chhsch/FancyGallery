@@ -46,7 +46,7 @@ The **FancyGallery App** is a dynamic Android application that fetches and displ
 
 ---
 
-![FancyGallery Demo](https://github.com/chhsch/FancyGallery/blob/18f00dcb053886d49f2e41e33831fda70a3f9c12/img/demo.gif)
+![FancyGallery Demo](https://github.com/chhsch/FancyGallery/blob/6f8730f19994673ddb693db84fb1ff73e46386da/img/demo.gif)
 
 ---
 
